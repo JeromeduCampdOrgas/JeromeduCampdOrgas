@@ -15,7 +15,7 @@ Avec ce diplôme, les nouvelles compétences acquises et les compétences acquis
 J'ai donc créé mon entreprise, à mon nom.
 
 
-
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 
 Here are some ideas to get you started:
 
