@@ -1,4 +1,4 @@
-Bonjour,  mon nom est Jérôme du CAmp d'Orgas👋
+Bonjour,  mon nom est Jérôme du Camp d'Orgas👋
 
 Mon parcours professionnel, jusqu'à fin 2018, était assez stable. 
 J'ai passé 22 ans dans la même entreprise dans laquelle j'ai occupé un nombre de postes intéressants.
@@ -11,6 +11,10 @@ J'ai toujours été intéressé par les langages du web, mais je ne pouvais pas 
 
 7 projets à réaliser, à valider lors de soutenances pour obtenir le diplôme.
 Avec ce diplôme, les nouvelles compétences acquises et les compétences acquises et utilisées dans mon ancienne vie, j'ai décidé de me créer une nouvelle vie professionnelle, mais toujours au service des autres.
+
+J'ai donc créé mon entreprise, à mon nom.
+
+
 
 
 Here are some ideas to get you started:
