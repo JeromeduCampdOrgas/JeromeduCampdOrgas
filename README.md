@@ -15,6 +15,11 @@ Avec ce diplôme, les nouvelles compétences acquises et les compétences acquis
 J'ai donc créé mon entreprise, à mon nom.
 
 ✉️ <h3> Me contacter</h3>
+<a href = "www.linkedin.com/in/jerome-du-camp-d-orgas-63830689 rel="nofollow">
+<img src ="https://camo.githubusercontent.com/b7b7499f1d2dc2b70546dd287eeb9129aed00bf7f822b1863265fb9db32c69a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f6c6f676f3d6c696e6b6564696e>
+ </a>
+                                                                             
+                                                                             
 <p>
 <img src="https://camo.githubusercontent.com/20238323aec31ef9ea89ffc9950352a7a3b129e5945d8ab1610f2e5af46122d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f6c6f676f3d6a617661736372697074">
 <img
