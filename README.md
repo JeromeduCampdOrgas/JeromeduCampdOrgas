@@ -25,9 +25,14 @@ J'ai donc créé mon entreprise, à mon nom.
 
  <h3>🔧 Technologies</h3>
 <p>
+ <!--Javascript-->
 <img src="https://camo.githubusercontent.com/20238323aec31ef9ea89ffc9950352a7a3b129e5945d8ab1610f2e5af46122d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f6c6f676f3d6a617661736372697074" alt="JavaScript" title="JavaScript">
+ <!--VisualStudioCode-->
 <img
 src="https://camo.githubusercontent.com/e85fd98e0f5ce82b82d9a34186bc9d0028c8af29a0d9065b730913e4d8ea5daa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c53747564696f436f64652d626c75653f6c6f676f3d76697375616c73747564696f" alt="VisualStudioCode" title="VisualStudioCode">
+ <!--GitHub-->
+ <img
+src="https://camo.githubusercontent.com/155facd106d0890140bf4edcf07580a0a2bc291b4cb15dbf4929d6e2acf5e000/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d626c61636b3f6c6f676f3d676974687562" alt="GitHub" title="GitHub">
 </p>
 
 Here are some ideas to get you started:
