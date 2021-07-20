@@ -18,8 +18,8 @@ J'ai donc créé mon entreprise, à mon nom.
 <a href = "https://www.linkedin.com/in/jerome-du-camp-d-orgas-63830689" rel="nofollow">
 <img src ="https://camo.githubusercontent.com/b7b7499f1d2dc2b70546dd287eeb9129aed00bf7f822b1863265fb9db32c69a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f6c6f676f3d6c696e6b6564696e" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin" style="max-width:100%;">
  </a>
- <a href="mailto:ducampdorgasjerome@gmail.com>
-    <img src="https://camo.githubusercontent.com/f987d4ca416e32d61f4b92d404cc227d3a75f1d473d778ceeff44f3163a61715/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d626c61636b3f6c6f676f3d676d61696c" alt="gmail" data-canonical-src="https://img.shields.io/badge/-Gmail-black?logo=gmail" style="max-width:100%"
+ <a href="mailto:ducampdorgasjerome@gmail.com">
+    <img src="https://camo.githubusercontent.com/f987d4ca416e32d61f4b92d404cc227d3a75f1d473d778ceeff44f3163a61715/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d626c61636b3f6c6f676f3d676d61696c" alt="gmail" data-canonical-src="https://img.shields.io/badge/-Gmail-black?logo=gmail" style="max-width:100%">
  </a>                                                                           
    
  <g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">
