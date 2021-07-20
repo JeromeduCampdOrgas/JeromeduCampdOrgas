@@ -51,6 +51,15 @@ src="https://camo.githubusercontent.com/c86fa899f92cd5c3be75287bba2e72e8554e59ad
   <!--Vue.js-->
  <img
 src="https://camo.githubusercontent.com/466156e318bdc08c227a13b77aecfcb285c4e65fab9c04b2e7d38204d3cc9cb6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5675652e6a732d677265656e3f6c6f676f3d7675652e6a73" alt="Vue.js" title="Vue.js">
+  <!--Html-->
+ <img
+src="https://camo.githubusercontent.com/2a662a49e84d05d3e8d9d719755e98f0d03b86189592e2a6ea61e240af58c4e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="Html" title="Html">
+   <!--CSS-->
+ <img
+src="https://camo.githubusercontent.com/bbca6e72fef7c57bc81ffb2fc0c2127698f4af9a6581d6dfa83c30602bbd755c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d534153532d70696e6b3f6c6f676f3d73617373" alt="SASS" title="SASS">
+    <!--SASS-->
+ <img
+src="https://camo.githubusercontent.com/1c9fee0edb1b29e957c99ce38eb4734f8e5d007f232706414406f1517832d271/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f6c6f676f3d63737333" alt="CSS" title="CSS">
 </p>
 
 Here are some ideas to get you started:
