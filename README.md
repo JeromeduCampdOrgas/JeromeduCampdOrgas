@@ -74,5 +74,5 @@ src="https://camo.githubusercontent.com/425468f358dbb66c8a2dd5735bf7ac74d612ea34
 
 </p>
 
+![](https://komarev.com/ghpvc/?username=jeromeducampdorgas)
 
-![](https://hit.yhype.me/github/profile?user_id=72450632)
