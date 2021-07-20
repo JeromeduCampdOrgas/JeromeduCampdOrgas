@@ -1,6 +1,6 @@
 Bonjour,  mon nom est Jérôme du Camp d'Orgas👋
 
-Mon parcours professionnel, jusqu'à fin 2018, était assez stable. 
+       Mon parcours professionnel, jusqu'à fin 2018, était assez stable. 
 J'ai passé 22 ans dans la même entreprise dans laquelle j'ai occupé un nombre de postes intéressants.
 Le dernier, consistait à modéliser les activités dont j'avais la charge, dimensionner les effectifs nécessaires  à la production, mesurer 
 les performances opérationnelles et économiques de ces activités, établir des prévisionnels d'activité, déterminer les modèles de planifications.
@@ -10,7 +10,7 @@ C'était donc une autre facette de mon poste, ce qui m'a permis de m'initier à 
 J'ai toujours été intéressé par les langages du web, mais je ne pouvais pas le déployer dans le cadre professionnel qui était le mien, alors j'ai franchi le pas, et j'ai suivi la formation proposée par Openclassrooms.
 
 7 projets à réaliser, à valider lors de soutenances pour obtenir le diplôme.
-Avec ce diplôme, les nouvelles compétences acquises et les compétences acquises et utilisées dans mon ancienne vie, j'ai décidé de me créer une nouvelle vie professionnelle, mais toujours au service des autres.
+Avec ce diplôme, les nouvelles compétences acquises et les compétences utilisées dans mon ancienne vie, j'ai décidé de me créer une nouvelle vie professionnelle, mais toujours au service des autres.
 
 J'ai donc créé mon entreprise, à mon nom.
 
@@ -68,7 +68,7 @@ src="https://camo.githubusercontent.com/98e5a29d3038fff4e2f89ad1f84d1b42e7431398
 <h3>🏆 Stats</h3>
 <p>
  <img
-src="https://camo.githubusercontent.com/425468f358dbb66c8a2dd5735bf7ac74d612ea348476c4531dd91caeadf090e2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616e746f696e65626f6c6c696e67657226636f6c6f723d79656c6c6f77" data-canonical-src="https://komarev.com/ghpvc/?username=JeromeduCampdOrgas&color=yellow">
+src="https://camo.githubusercontent.com/425468f358dbb66c8a2dd5735bf7ac74d612ea348476c4531dd91caeadf090e2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616e746f696e65626f6c6c696e67657226636f6c6f723d79656c6c6f77" data-canonical-src="https://komarev.com/ghpvc/?username=JeromeduCampdOrgas&color=brightgreen">
 </p>
 
 
