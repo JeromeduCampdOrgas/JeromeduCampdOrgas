@@ -14,7 +14,7 @@ Avec ce diplôme, les nouvelles compétences acquises et les compétences acquis
 
 J'ai donc créé mon entreprise, à mon nom.
 
-✉️ # Me contacter
+✉️ <h3> Me contacter</h3>
 <p>
 <img src="https://camo.githubusercontent.com/20238323aec31ef9ea89ffc9950352a7a3b129e5945d8ab1610f2e5af46122d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f6c6f676f3d6a617661736372697074">
 <img
