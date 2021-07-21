@@ -77,4 +77,5 @@ src="https://camo.githubusercontent.com/425468f358dbb66c8a2dd5735bf7ac74d612ea34
 ![](https://komarev.com/ghpvc/?username=jeromeducampdorgas)
 
 [![Website lbesson.bitbucket.io](https://img.shields.io/website-up-down-green-red/https/lbesson.bitbucket.io.svg)](https://www.jducampdorgas.com)
+[![jeromeducampdorgas's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/jeromeducampdorgas/github-readme-stats)
 
