@@ -21,6 +21,9 @@ J'ai toujours été intéressé par les langages du web, mais je ne pouvais pas 
 </p>
 <p>
        J'ai donc créé mon entreprise, à mon nom.
+       <a href="https://www.jducampdorgas.com">
+       <img src="images/Logo1_retouche.png">
+       </a>
 </p>
 
  <h3>✉️ Me contacter</h3>
