@@ -30,7 +30,7 @@ J'ai toujours été intéressé par les langages du web, mais je ne pouvais pas 
  <a href="mailto:ducampdorgasjerome@gmail.com">
     <img src="https://camo.githubusercontent.com/f987d4ca416e32d61f4b92d404cc227d3a75f1d473d778ceeff44f3163a61715/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d626c61636b3f6c6f676f3d676d61696c" alt="gmail" data-canonical-src="https://img.shields.io/badge/-Gmail-black?logo=gmail" style="max-width:100%">
  </a>   
-   
+
 
  <h3>🔧 Technologies</h3>
 <p>
