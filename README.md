@@ -22,7 +22,8 @@ J'ai donc créé mon entreprise, à mon nom.
  </a>
  <a href="mailto:ducampdorgasjerome@gmail.com">
     <img src="https://camo.githubusercontent.com/f987d4ca416e32d61f4b92d404cc227d3a75f1d473d778ceeff44f3163a61715/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d626c61636b3f6c6f676f3d676d61696c" alt="gmail" data-canonical-src="https://img.shields.io/badge/-Gmail-black?logo=gmail" style="max-width:100%">
- </a>                                                                           
+ </a>   
+ [![Website lbesson.bitbucket.io](https://img.shields.io/website-up-down-green-red/https/lbesson.bitbucket.io.svg)](https://www.jducampdorgas.com)
    
 
  <h3>🔧 Technologies</h3>
@@ -76,6 +77,6 @@ src="https://camo.githubusercontent.com/425468f358dbb66c8a2dd5735bf7ac74d612ea34
 
 ![](https://komarev.com/ghpvc/?username=jeromeducampdorgas)
 
-[![Website lbesson.bitbucket.io](https://img.shields.io/website-up-down-green-red/https/lbesson.bitbucket.io.svg)](https://www.jducampdorgas.com)
-[![jeromeducampdorgas's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/jeromeducampdorgas/github-readme-stats)
+
+[![jeromeducampdorgas's github stats](https://github-readme-stats.vercel.app/api?username=jeromeducampdorgas&theme=blue-green)](https://github.com/jeromeducampdorgas/github-readme-stats)
 
