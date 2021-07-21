@@ -22,7 +22,7 @@ J'ai toujours été intéressé par les langages du web, mais je ne pouvais pas 
 <p>
        J'ai donc créé mon entreprise, à mon nom.
        <a href="https://www.jducampdorgas.com">
-       <img src="images/Logo1_retouche.png">
+       <img src="images/Logo1_retouche.png" style="height:15%">
        </a>
 </p>
 
