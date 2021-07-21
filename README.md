@@ -75,6 +75,6 @@ src="https://camo.githubusercontent.com/425468f358dbb66c8a2dd5735bf7ac74d612ea34
 </p>
 
 ![](https://komarev.com/ghpvc/?username=jeromeducampdorgas)
-<a href ="https://www.jducampdorgas.com">
-[![Website lbesson.bitbucket.io](https://img.shields.io/website-up-down-green-red/https/lbesson.bitbucket.io.svg)](https://lbesson.bitbucket.io/)
-       </a>
+
+[![Website lbesson.bitbucket.io](https://img.shields.io/website-up-down-green-red/https/lbesson.bitbucket.io.svg)](https://www.jducampdorgas.com)
+
