@@ -20,11 +20,11 @@ J'ai toujours été intéressé par les langages du web, mais je ne pouvais pas 
        Avec ce diplôme, les nouvelles compétences acquises et les compétences utilisées dans mon ancienne vie, j'ai décidé de me créer une nouvelle vie professionnelle, mais                toujours au service des autres.
 </p>
 <p>
-       J'ai donc créé mon entreprise, à mon nom.
+       J'ai donc créé mon entreprise, à mon nom.</p>
        <a href="https://www.jducampdorgas.com">
        <img src="images/Logo1_retouche.png" >
        </a>
-</p>
+
 
  <h3>✉️ Me contacter</h3>
 <a href = "https://www.linkedin.com/in/jerome-du-camp-d-orgas-63830689" rel="nofollow">
